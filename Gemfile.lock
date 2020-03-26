@@ -32,7 +32,7 @@ GEM
       mixlib-shellout
       systemu
       yajl-ruby
-    rake (10.4.2)
+    rake (13.0.1)
     systemu (2.2.0)
     yajl-ruby (1.2.1)
 
